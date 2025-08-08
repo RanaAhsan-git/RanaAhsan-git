@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Artificial Intelligence and deep learning</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 Ai Engineer at Camsense, NICAT</p>
 
 ###
 
