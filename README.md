@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Muhammad Ahsan and I'm a Computer Engineer ( Ai/ML engineer) from Khanewal, Punjab, Pakistan. <br>You can email me at ahsanaslam9990@gmail.com</p>
+<p align="left">My name is Muhammad Ahsan and I'm a Computer Vision Engineer ( Ai/ML engineer) from Khanewal, Punjab, Pakistan. <br>You can email me at ahsanaslam9990@gmail.com</p>
 
 ###
 
